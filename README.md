@@ -2,6 +2,8 @@
 
 > Projeto de um aplicativo que mostra o clima da localização pesquisada, através da API do site OpenWeatherMap.
 >
+> Represente uma primeira versão, ainda em Inglês, com uma entrada de input ainda não robusta como desejo, e com apena 1 imagem estática.
+>
 > Vai te mostrar a temperatura em Graus Celcius, a humidade do ar, a velocidade do vento e também se está de dia ou de noite.
 >
 > Este repositório representa a primeira versão desse app.
