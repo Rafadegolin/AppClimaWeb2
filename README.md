@@ -16,4 +16,4 @@ Da uma olhada na aba [Releases](https://github.com/Rafadegolin/AppClimaWeb2/rele
 [MIT License](./LICENSE) © [Rafael Degolin](https://github.com/Rafadegolin)
 
 ## Clique aqui para jogar:
-[App Clima](https://rafadegolin.github.io/AppClimaWeb2/)
+[App Clima 2](https://rafadegolin.github.io/AppClimaWeb2/)
